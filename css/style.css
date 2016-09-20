@@ -138,13 +138,13 @@ ul.res li a {
     font-size: 1em;
     font-family: 'Archivo Narrow', sans-serif;
     color: #000;
-     background:#fdbd10;
+     background:#D8156B;
     text-align: center;
     display: block;
     border-radius: 3px;
 }
 .top-nav ul.res li a:hover, .top-nav ul.res li a.active{
-    background-color: #7DA031;
+    background-color: #FDBD41;
     color: #fff;
 }
 span.menu {
@@ -195,16 +195,16 @@ span.menu {
 }
 .b-strip-left span.glyphicon.glyphicon-leaf {
     border-radius: 40px;
-    color: #fdbd10;
+    color: #D8156B;
 }
 /*-- w3layouts --*/
 .b-strip-left span.glyphicon.glyphicon-eye-open {
     border-radius: 40px;
-    color: #fdbd10;
+    color: #D8156B;
 }
 .b-strip-left span.glyphicon.glyphicon-education {
     border-radius: 40px;
-    color: #fdbd10;
+    color: #D8156B;
 }
 .b-strip-right h4 {
     font-size: 1.4em;
@@ -250,7 +250,7 @@ span.menu {
 /*-- agileits --*/
 .charity-main h3 {
     font-size: 2.5em;
-    color: #fdbd10;
+    color: #D8156B;
    font-family: 'Archivo Narrow', sans-serif;
     margin-bottom: 0.3em;
     font-weight: 700;
@@ -281,7 +281,7 @@ span.menu {
 }
 .terisa-left h3 {
     font-size: 2em;
-    color: #fdbd10;
+    color: #D8156B;
     font-family: 'Archivo Narrow', sans-serif;
     margin-bottom: 0.3em;
     font-weight: 700;
@@ -322,7 +322,7 @@ span.menu {
 }
 .donate-grid h4 {
     font-size: 1.1em;
-    color:#fdbd10;
+    color:#D8156B;
     line-height: 1.5em;
     margin: 0.5em 0em;
     font-family: 'Archivo Narrow', sans-serif;
@@ -513,7 +513,7 @@ span.menu {
     font-size: 1em;
 }
 .ftr-grid ul li a:hover{
-    color:#fdbd10;
+    color:#D8156B;
 }
 .ftr-grid p {
     font-size: 1em;
@@ -563,7 +563,7 @@ span.tweet-img {
     color: #fff;
 }
 .ftr-text p a:hover {
-    color: #fdbd10;
+    color: #D8156B;
 }
 .ftr-icons {
     margin-bottom: 0.6em;
@@ -571,7 +571,7 @@ span.tweet-img {
 /*--footer end here--*/
 /*--copyrights start here--*/
 .copy-right {
-    background:#fdbd10;
+    background:#D8156B;
     padding: 1.5em 0em;
     text-align: center;
 }
@@ -610,19 +610,19 @@ span.tweet-img {
     margin-bottom: 3em;
 }
 .advan-cup span.glyphicon.glyphicon-education {
-    color: #fdbd10;
+    color: #D8156B;
     border-radius: 55px;
 }
 .advan-cup span.glyphicon.glyphicon-piggy-bank{  
-    color: #fdbd10;
+    color: #D8156B;
     border-radius: 50px;
 }
 .advan-cup span.glyphicon.glyphicon-leaf{
-    color: #fdbd10;
+    color: #D8156B;
     border-radius: 50px;  
 }
 .advan-cup span.glyphicon.glyphicon-eye-open {
-    color: #fdbd10;
+    color: #D8156B;
     border-radius: 50px;
 }
 .advan-text p {
@@ -747,7 +747,7 @@ span.hovicon:before {
  .hovicon.effect-4 {
     width: 80px;
     height: 80px;
-    box-shadow: 0 0 0 3px #fdbd10;
+    box-shadow: 0 0 0 3px #D8156B;
 }
 .hovicon.effect-4.small {
     width:45px;
@@ -770,7 +770,7 @@ span.hovicon:before {
     left: -3px;
     padding: 0;
     z-index: 10;
-    border: 3px dashed #fdbd10;
+    border: 3px dashed #D8156B;
 }
 .hovicon.effect-4:hover {
     box-shadow: 0 0 0 0 rgba(255, 255, 255, 0);
@@ -826,7 +826,7 @@ span.hovicon:before {
 }
 .testimonial-main h3 {
         font-size: 3em;
-    color: #fdbd10;
+    color: #D8156B;
     margin-bottom: 0.3em;
     font-family: 'Archivo Narrow', sans-serif;
 }
@@ -1135,13 +1135,13 @@ span.glyphicon.glyphicon-arrow-right {
 }
 .blog-cate h3 {
     font-size: 1.5em;
-    color: #fdbd10;
+    color: #D8156B;
     margin: 0px 0px 16px 0px;
     font-family: 'Archivo Narrow', sans-serif;
 }
 .grid-right a.bwn {
     font-size: 1em;
-    color: #fdbd10;
+    color: #D8156B;
 }
 .grid-right a.bwn:hover {
 	 color:#7DA031;
@@ -1165,7 +1165,7 @@ span.glyphicon.glyphicon-arrow-right {
 }
 .blog-posts h3 {
     font-size: 1.5em;
-    color:#fdbd10;
+    color:#D8156B;
     margin: 0px 0px 16px 0px;
     font-family: 'Archivo Narrow', sans-serif;
 }
@@ -1203,7 +1203,7 @@ ul.p_n-list li a {
     color: #fff;
     display: block;
     padding: 10px 1em;
-    background:#FDBD10;
+    background:#D8156B;
 }
 ul.p_n-list li a:hover{
 	color:#fff;
@@ -1269,7 +1269,7 @@ ul.p_n-list li a:hover{
 .single-grid input[type="submit"] {
     border: none;
     outline: none;
-    background: #fdbd10;
+    background: #D8156B;
     color: #fff;
     padding: 0.5em 2em;
 }
@@ -1295,7 +1295,7 @@ p.smith {
 }
 p.smith a {
     text-decoration: none;
-    color:#fdbd10;
+    color:#D8156B;
     font-size: 1.1em;
 	font-weight: 600;
 }
@@ -1370,7 +1370,7 @@ p.reply a i{
     font-family: 'Archivo Narrow', sans-serif;
 }
 .send input[type="submit"]{
-	background: #fdbd10;
+	background: #D8156B;
     color: #fff;
     font-size: 1em;
     width: 15%;
